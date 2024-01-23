@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(191, 212, 164);
+
+}
+.p1{
+    width: 550px;
+    height: 350px;
+    background-color: white;
+    position: relative;
+    left: 500px;
+    top: 160px;
+}
+
+
+    
